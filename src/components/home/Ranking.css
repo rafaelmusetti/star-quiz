@@ -1,0 +1,10 @@
+.Ranking {
+  background-color: #f1f1f1;
+  border: #d0d0d0 1px solid;
+  margin: 70px;
+  text-align: center;
+}
+
+.Ranking__content {
+  padding: 40px;
+}

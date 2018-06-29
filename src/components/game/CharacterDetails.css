@@ -1,0 +1,12 @@
+.CharacterDetails {
+  display: flex;
+  flex-direction: row;
+}
+
+.CharacterDetails__image {
+  width: 170px;
+}
+
+.CharacterDetails__info {
+  padding-left: 20px;
+}

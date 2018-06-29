@@ -1,0 +1,10 @@
+.Character {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  text-align: center;
+}
+
+.Character--correct {
+  box-shadow: 0 4px 8px 0 green, 0 6px 20px 0 green;
+}

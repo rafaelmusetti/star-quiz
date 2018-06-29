@@ -1,0 +1,16 @@
+.Timer {
+  display: flex;
+  flex-direction: row;
+}
+
+.Timer__icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Timer__time {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

@@ -1,0 +1,17 @@
+.Game__header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+
+.Game__modal {
+  text-align: center;
+}
+
+.Game__modal__form {
+  margin-top: 20px;
+}
+
+.Game__modal__form--nickname {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,19 @@
+.Home {
+  background-color: #f1f1f1;
+  border: #d0d0d0 1px solid;
+  margin: 70px;
+  text-align: center;
+}
+
+.Home__content {
+  padding: 40px;
+}
+
+.Home__content__description {
+  margin: 0px 0px 20px;
+  font-size: 16px;
+}
+
+.Home__content__description--quiz-name {
+  font-size: 20px;
+}
